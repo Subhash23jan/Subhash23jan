@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 💬 Ask me about **flutter,DSA in Cpp,and Cp,Java**
+- 💬 Ask me about **flutter,DSA in C++, development and Java Programming language**
 
 - 📫 How to reach me **Subhash613d@gmail.com**
 
