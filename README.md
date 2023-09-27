@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Subhash</h1>
-<h3 align="center">A passionate flutter developer and Programmer from Bengaluru</h3>
+<h3 align="center">A passionate developer and Programmer and problem solver from Bengaluru</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C5612AQFy9TrPYcbpGA/article-cover_image-shrink_423_752/0/1595852886984?e=1691625600&v=beta&t=vpXMx8NRXfPww6z_6cvftbFWsAZIpjSzgtS9TxQlKwQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhash23jan&label=Profile%20views&color=0e75b6&style=flat" alt="subhash23jan" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node.Js**
 
-- 💬 Ask me about **flutter,DSA in C++, development and Java Programming language**
+- 💬 Ask me about **flutter,DSA in C++, development**
 
 - 📫 How to reach me **Subhash613d@gmail.com**
 
