@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/subhash23d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhash23d" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/subhash-d/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subhash-d/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/subhash23_d/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/subhash23_d/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/subhash_d_gowda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/subhash23_d_gowda/" height="30" width="40" /></a>
 <a href="https://leetcode.com/subhash613d/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/subhash613d/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/subhashbmsce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/subhashbmsce" height="30" width="40" /></a>
 </p>
