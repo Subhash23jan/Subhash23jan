@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/subhash23d" target="blank"><img src="https://img.shields.io/twitter/follow/subhash23d?logo=twitter&style=for-the-badge" alt="subhash23d" /></a> </p>
 
-- 🌱 I’m currently learning **Node.Js**
+- 🌱 I’m currently exploring **Machine Learning**
 
 - 💬 Ask me about **flutter,DSA in C++, development**
 
