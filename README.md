@@ -1,6 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<p><img src="https://static.wikia.nocookie.net/viacom4633/images/1/1e/Mission_Impossible_franchise_logo.png/revision/latest?cb=20220123153415"></p>
 <h1 align="center">Hi 👋, I'm Subhash</h1>
-<h3 align="center">A passionate developer and Programmer and problem solver from Bengaluru</h3>
+<h3 align="center">A passionate developer , Programmer and problem solver </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhash23jan&label=Profile%20views&color=0e75b6&style=flat" alt="subhash23jan" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently exploring **Machine Learning**
 
-- 💬 Ask me about **flutter,DSA in C++, development**
+- 💬 Ask me about **flutter,DSA in C++, development,backend,Nodejs and More...**
 
 - 📫 How to reach me **Subhash613d@gmail.com**
 
