@@ -1,8 +1,10 @@
 <p><img src="https://static.wikia.nocookie.net/viacom4633/images/1/1e/Mission_Impossible_franchise_logo.png/revision/latest?cb=20220123153415"></p>
 <h1 align="center">Hi 👋, I'm Subhash</h1>
 <h3 align="center">A passionate developer , Programmer and problem solver </h3>
-<p style="height: 20px;"></p>
+<br></br>
+<br></br>
 ## GSSOC(24) Badges 🪶
+<br></br>
 <div style='display:flex; align-items:center; gap: 20px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
@@ -14,7 +16,8 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
 </div>
-<p style="height: 20px;"></p>
+<br></br>
+<br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhash23jan&label=Profile%20views&color=0e75b6&style=flat" alt="subhash23jan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/subhash23d" target="blank"><img src="https://img.shields.io/twitter/follow/subhash23d?logo=twitter&style=for-the-badge" alt="subhash23d" /></a> </p>
