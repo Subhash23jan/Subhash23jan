@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **Subhash613d@gmail.com**
 
-- ⚡ Fun fact **I think I have memory loss problem**
+- ⚡ Fun fact **I have memory loss problem**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
