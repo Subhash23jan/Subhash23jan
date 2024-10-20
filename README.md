@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer , Programmer and problem solver </h3>
 <br></br>
 <br></br>
-## GSSOC(24) Badges 🪶
+<!-- ## GSSOC(24) Badges 🪶
 <br></br>
 <div style='display:flex; align-items:center; gap: 20px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
@@ -15,7 +15,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
-</div>
+</div> -->
 <br></br>
 <br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhash23jan&label=Profile%20views&color=0e75b6&style=flat" alt="subhash23jan" /> </p>
