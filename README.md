@@ -93,6 +93,12 @@ infra_and_reliability:
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhash23jan&theme=react-dark&hide_border=true&area=true&area_color=58A6FF&line=58A6FF&point=ffffff&bg_color=0d1117" width="96%" />
+
+</div>
+
 ---
 
 ## 📈 GitHub Stats
