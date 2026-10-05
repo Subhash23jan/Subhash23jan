@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Subhash&fontSize=72&fontColor=58A6FF&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Payments%20Infrastructure&descAlignY=60&descColor=8b949e&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+fault-tolerant+backend+systems;Kafka+%E2%80%A2+gRPC+%E2%80%A2+Kubernetes+%E2%80%A2+AWS;Distributed+systems+%7C+High-scale+infrastructure;Event-driven+%7C+Async+%7C+Low-latency;Payments+%40+Xflow" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+fault-tolerant+backend+systems;Kafka+%E2%80%A2+gRPC+%E2%80%A2+Kubernetes+%E2%80%A2+AWS;Distributed+systems+%7C+High-scale+infrastructure;Event-driven+%7C+Async+%7C+Low-latency;Payments+%40+Storage and Infra" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ```yaml
 name:       Subhash
-role:       Backend Engineer @ Xflow Payments
+role:       MTS @ NetApp
 focus:      Distributed Systems · Event-Driven Architecture · Payments Infrastructure
 building:   High-throughput async workflows on Kafka · gRPC microservices · Cloud-native infra
 languages:  Java · C++ · Node.js
@@ -112,7 +112,7 @@ infra_and_reliability:
 | ⚔️ | **LeetCode Knight** — 2000+ Rating |
 | 💡 | **800+ DSA Problems** solved across platforms |
 | 🥇 | **Top 400 — Code Gladiator 2024** |
-| 🏗️ | **Backend Engineer @ Xflow Payments** — Payments Infrastructure |
+| 🏗️ | **MTS @ NetApp** — Azure NetApp Files Team|
 | 🌍 | **Open Source Contributor** |
 
 </div>
