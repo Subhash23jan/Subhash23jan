@@ -14,16 +14,6 @@
 
 ---
 
-## 📊 Engineering Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhash23jan&theme=react-dark&hide_border=true&area=true&area_color=58A6FF&line=58A6FF&point=ffffff&bg_color=0d1117" width="96%" />
-
-</div>
-
----
-
 ## `$ whoami`
 
 ```yaml
@@ -117,7 +107,7 @@ infra_and_reliability:
 
 <div align="center">
 
-| 🎯 | Achievement |
+| 🎯 | Achievement ( On paper ) |
 |:---:|:---|
 | ⚔️ | **LeetCode Knight** — 2000+ Rating |
 | 💡 | **800+ DSA Problems** solved across platforms |
