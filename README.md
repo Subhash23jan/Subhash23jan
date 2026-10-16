@@ -2,6 +2,8 @@
 
 Backend engineer at **NetApp**.
 
+FYI: I write better code than AI do ( as of now) and I play with AI 
+
 I build reliable backend systems, distributed services, and event-driven applications.
 
 ## What I work with
